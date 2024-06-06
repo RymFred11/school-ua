@@ -81,10 +81,10 @@ static int __init kuua_init(void) {
     nfho.priority = NF_IP_PRI_FIRST;
     nf_register_net_hook(&init_net, &nfho);
     printk(KERN_INFO "[ku-ua]模块已加载\n");
-    printk(KERN_INFO "[ku-ua]作者：Brukamen\n");
-    printk(KERN_INFO "[ku-ua]邮箱：169296793@qq.com\n");
-    printk(KERN_INFO "[ku-ua]交流群（QQ）：555201601\n");
-    printk(KERN_INFO "[ku-ua]源码仓库：https://github.com/lucikap/ku-ua\n");
+    printk(KERN_INFO "[ku-ua]作者：None\n");
+    printk(KERN_INFO "[ku-ua]邮箱：None\n");
+    printk(KERN_INFO "[ku-ua]None\n");
+    printk(KERN_INFO "[ku-ua]None\n");
     printk(KERN_INFO "[ku-ua]模块说明：\n");
     printk(KERN_INFO "[ku-ua]此模块用于修改含有User-Agent的包\n");
     printk(KERN_INFO "[ku-ua]此模块遵循开源许可协议《GPL》（商业软件绕开）既：不允许修改后和衍生的代码做为闭源的商业软件发布和销售\n");
