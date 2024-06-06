@@ -36,11 +36,3 @@ LuCI  --->
 #开始编译
 make -j12 V=99
 ```
-
-如果你有精力，甚至可以帮我写个更为精美和实用的README.md（我的邮箱169296793@qq.com）
-
-##欢迎充电
-
-![微信图片_20240505214303](https://github.com/lucikap/ku-ua/assets/133383664/8a930df4-83c1-4b87-a5f4-ba6b98176fd8)
-
-![微信图片_20240505214253](https://github.com/lucikap/ku-ua/assets/133383664/56dff104-b16d-4934-b33a-a41ed0111cee)
